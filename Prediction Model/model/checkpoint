@@ -1,0 +1,2 @@
+model_checkpoint_path: "c:\\Users\\asus\\Desktop\\NSIT Sem 6\\CV\\model\\Fruits_dectector-0.001-5conv-basic.model"
+all_model_checkpoint_paths: "c:\\Users\\asus\\Desktop\\NSIT Sem 6\\CV\\model\\Fruits_dectector-0.001-5conv-basic.model"
